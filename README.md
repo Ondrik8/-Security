@@ -2,7 +2,7 @@
 
 [BZAR](https://github.com/mitre-attack/bzar) инструмент для обнаружение вторжений на основе данных mitre-attack
 
-[Destroy Windows 10 Spying](https://github.com/Wohlstand/Destroy-Windows-10-Spying/releases)   Destroy Windows 10 Spying отключает кейлоггеры, тех отчеты и блокирует IP адреса дяди Билла.)
+[Destroy Windows 10 Spying](https://github.com/Wohlstand/Destroy-Windows-10-Spying/releases)   Destroy Windows 10 Spying он отключает кейлоггеры, тех отчеты и блокирует IP адреса дяди Билла.)
 
 ### IDS / IPS / Host IDS / Host IPS
 
@@ -19,7 +19,7 @@
 - [SSHGuard](http://www.sshguard.net/) - программное обеспечение для защиты служб в дополнение к SSH, написанное на C
 - [Lynis](https://cisofy.com/lynis/) - инструмент аудита безопасности с открытым исходным кодом для Linux / Unix.
 
-### Honey Pot / Honey Net
+## Honey Pot / Honey Net
 
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - Канонический список потрясающих приманок.
 - [HoneyPy](https://github.com/foospidy/HoneyPy) - HoneyPy - это приманка с низким и средним уровнем взаимодействия. Он предназначен для простого развертывания, расширения функциональности с помощью плагинов и применения пользовательских конфигураций.
