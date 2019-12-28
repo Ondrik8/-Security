@@ -1,9 +1,8 @@
 ## CyberSEC & anti-SPY
 
-https://github.com/mitre-attack/bzar  обнаружение вторжений
+[BZAR](https://github.com/mitre-attack/bzar) инструмент для обнаружение вторжений на основе данных mitre-attack
 
-https://github.com/Wohlstand/Destroy-Windows-10-Spying/releases   Destroy Windows 10 Spying 
-
+[Destroy Windows 10 Spying](https://github.com/Wohlstand/Destroy-Windows-10-Spying/releases)   Destroy Windows 10 Spying отключает кейлоггеры, тех отчеты и блокирует IP адреса дяди Билла.)
 
 ### IDS / IPS / Host IDS / Host IPS
 
@@ -124,7 +123,7 @@ https://github.com/Wohlstand/Destroy-Windows-10-Spying/releases   Destroy Window
     - [miniprint](https://github.com/sa7mon/miniprint) - Honeypot принтера со средним взаимодействием.
 
 - Ботнет C2 инструменты
-    - [Хейл](https://github.com/pjlantz/Hale) - Монитор управления и контроля ботнета.
+    - [Hale](https://github.com/pjlantz/Hale) - Монитор управления и контроля ботнета.
     - [dnsMole](https://code.google.com/archive/p/dns-mole/) - анализирует трафик DNS и потенциально обнаруживает команды ботнета и контролирует активность сервера, а также зараженные хосты.
 
 - средство обнаружения атак IPv6
@@ -194,11 +193,8 @@ https://github.com/Wohlstand/Destroy-Windows-10-Spying/releases   Destroy Window
 
 - сервер
     - [Amun](http://amunhoney.sourceforge.net) - Honeypot эмуляции уязвимости.
-    - [Артиллерия] (https://github.com/trustedsec/artillery/) - инструмент синей команды с открытым исходным кодом, предназначенный для защиты операционных систем Linux и Windows несколькими способами.
+    - [artillery](https://github.com/trustedsec/artillery/) - инструмент синей команды с открытым исходным кодом, предназначенный для защиты операционных систем Linux и Windows несколькими способами.
     - [Bait and Switch](http://baitnswitch.sourceforge.net) - перенаправляет весь враждебный трафик на honeypot, который частично отражает вашу производственную систему.
-    - [Бифрозт](https://github.com/Ziemeck/bifrozt-ansible) - Автоматическое развертывание бифрозта с помощью ansible.
-    - [Conpot](http://conpot.org/) - Низкая интерактивность на стороне сервера.
-    - [Вестник](https://github.com/johnnykv/heralding) - Полномочия ловить приманку.
     - [HoneyWRT](https://github.com/CanadianJeff/honeywrt) - Приманка Python с низким уровнем взаимодействия, разработанная для имитации сервисов или портов, которые могут стать целью для злоумышленников.
     - [Honeyd](https://github.com/provos/honeyd) - См. [Honeyd tools] (# honeyd-tools).
     - [Honeysink](http://www.honeynet.org/node/773) - провал в сети с открытым исходным кодом, который обеспечивает механизм для обнаружения и предотвращения вредоносного трафика в данной сети.
