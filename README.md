@@ -1,8 +1,24 @@
 ## CyberSEC & anti-SPY
 
+
+'╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'╚═╗├┤ │ │ │├┬┘│ │ └┬┘
+'╚═╝└─┘└─┘└─┘┴└─┴ ┴ ┴ 
+«Все о вопросах безопасности.
+
+
 [BZAR](https://github.com/mitre-attack/bzar) инструмент для обнаружение вторжений на основе данных mitre-attack
 
-[Destroy Windows 10 Spying](https://github.com/Wohlstand/Destroy-Windows-10-Spying/releases)   Destroy Windows 10 Spying он отключает кейлоггеры, тех отчеты и блокирует IP адреса дяди Билла.)
+[Destroy Windows 10 Spying](https://github.com/Wohlstand/Destroy-Windows-10-Spying/releases)   Destroy Windows 10 Spying он отключает кейлоггеры, тех отчеты и блокирует IP адреса дяди Била.)
+
+ [windows_hardening](https://github.com/0x6d69636b/windows_hardening) Это контрольный список для усиления защиты, который можно использовать в частных и бизнес-средах для защиты Windows 10. Контрольный список можно использовать для всех версий Windows, но в Windows 10 Home редактор групповой политики не интегрирован, и настройку необходимо выполнить непосредственно в реестр.
+Параметры следует рассматривать как рекомендацию по безопасности и конфиденциальности, и их следует тщательно проверять, не повлияет ли они на работу вашей инфраструктуры или на удобство использования ключевых функций. Важно взвесить безопасность против юзабилити.
+ 
+
+[reverse-vulnerabilities-software](https://www.apriorit.com/dev-blog/644-reverse-vulnerabilities-software-no-code-dynamic-fuzzing) Как обнаружить уязвимости в программном обеспечении, когда исходный код недоступен.
+
+
+
 
 ### IDS / IPS / Host IDS / Host IPS
 
