@@ -7,7 +7,10 @@
 Все о вопросах безопасности.
 ```
 
-[attack_monitor](https://hakin9.org/attack-monitor-endpoint-detection-and-malware-analysis-software/)  мониторинг атак
+[attack_monitor](https://hakin9.org/attack-monitor-endpoint-detection-and-malware-analysis-software/)  мониторинг атак.
+
+# Demo
+![demo/ed.gif](https://raw.githubusercontent.com/yarox24/attack_monitor/master/demo/ed.gif)
 
 
 [BZAR](https://github.com/mitre-attack/bzar) инструмент для обнаружение вторжений на основе данных mitre-attack
