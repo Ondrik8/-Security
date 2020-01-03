@@ -7,6 +7,9 @@
 Все о вопросах безопасности.
 ```
 
+[attack_monitor](https://hakin9.org/attack-monitor-endpoint-detection-and-malware-analysis-software/)  мониторинг атак
+
+
 [BZAR](https://github.com/mitre-attack/bzar) инструмент для обнаружение вторжений на основе данных mitre-attack
 
 [Destroy Windows 10 Spying](https://github.com/Wohlstand/Destroy-Windows-10-Spying/releases)   Destroy Windows 10 Spying он отключает кейлоггеры, тех отчеты и блокирует IP адреса дяди Била.)
