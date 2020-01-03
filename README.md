@@ -1,5 +1,10 @@
 ## CyberSEC & anti-SPY
 
+Подымаем свой VPN и обходим блокировку сайтов (по Китайской технологии обход_Золотого_щита)
+
+[shadowsocksr](https://github.com/shadowsocksrr/shadowsocksr)
+
+
 ```bash
 '╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
 '╚═╗├┤ │ │ │├┬┘│ │ └┬┘
