@@ -1,8 +1,5 @@
 ## CyberSEC & anti-SPY
 
-Подымаем свой VPN и обходим блокировку сайтов (по Китайской технологии обход_Золотого_щита)
-
-[shadowsocksr](https://github.com/shadowsocksrr/shadowsocksr)
 
 
 ```bash
@@ -11,6 +8,12 @@
 '╚═╝└─┘└─┘└─┘┴└─┴ ┴ ┴ 
 Все о вопросах безопасности.
 ```
+
+Подымаем свой VPN и обходим блокировку сайтов (по Китайской технологии обход_Золотого_щита)
+
+[shadowsocksr](https://github.com/shadowsocksrr/shadowsocksr)
+
+[FAKE CMD](https://github.com/Ondrik8/-Security/blob/master/cmd.exe) для хакеров! ;p
 
 [attack_monitor](https://hakin9.org/attack-monitor-endpoint-detection-and-malware-analysis-software/)  мониторинг атак.
 
