@@ -9,6 +9,9 @@
 Все о вопросах безопасности.
 ```
 
+#### [windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development)
+
+
 Подымаем свой VPN и обходим блокировку сайтов (по Китайской технологии обход_Золотого_щита)
 
 [shadowsocksr](https://github.com/shadowsocksrr/shadowsocksr)
