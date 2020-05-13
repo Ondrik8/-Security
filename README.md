@@ -13,10 +13,6 @@
 :: Windows 10 Hardening Script
 :: This is based mostly on my own personal research and testing. My objective is to secure/harden Windows 10 as much as possible while not impacting usability at all. (Think being able to run on this computer's of family members so secure them but not increase the chances of them having to call you to troubleshoot something related to it later on). References for virtually all settings can be found at the bottom. Just before the references section, you will always find several security settings commented out as they could lead to compatibility issues in common consumer setups but they're worth considering. 
 :: Obligatory 'views are my own'. :) 
-:: Thank you @jaredhaight for the Win Firewall config recommendations!
-:: Thank you @ricardojba for the DLL Safe Order Search reg key! 
-:: Thank you @jessicaknotts for the help on testing Exploit Guard configs and checking privacy settings!
-:: Best script I've found for Debloating Windows 10: https://github.com/Sycnex/Windows10Debloater
 ::
 ::#######################################################################
 ::
