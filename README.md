@@ -1,6 +1,6 @@
 ## CyberSEC & anti-SPY
 
-https://github.com/theflakes/reg_hunter
+
 
 
 
