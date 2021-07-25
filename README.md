@@ -10,7 +10,12 @@
 '╚═╝└─┘└─┘└─┘┴└─┴ ┴ ┴ 
 Все о вопросах безопасности.
 ```
+
+
+## https://github.com/ptresearch/AttackDetection
+
 https://github.com/theflakes/reg_hunter
+
 
 - [Automation](#automation)
   - [Code libraries and bindings](#code-libraries-and-bindings)
